@@ -285,6 +285,9 @@ en:
     footer:
       copyright_html: "<strong>Copyright &copy; 2016 Project Hydra</strong> Licensed under the Apache License, Version 2.0"
     admin:
+      admin_sets:
+        show:
+          item_list_header: "Works in This Set"
       sidebar:
         admin_sets: "Administrative Sets"
         settings:   "Settings"
